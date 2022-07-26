@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan.
 - 👀 I’m interested in programming (now it's my hobby), intellectual and entertaining games, reading books, economic, english, sport, music, mountain tourism etc.
-- 🌱 I’m currently learning React Native and developing mobile game.
+- 🌱 I’m currently learning React Native and developing a mobile game.
 - 💞️ I'm looking for a job as a React Native junior developer.
 - 📫 Email: animasola@yandex.ru; Phone: +7-910-720-01-20
 
